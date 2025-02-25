@@ -45,11 +45,11 @@ GSF son los cálculos de factores de cambio de generación y LODF son los factor
    
 
 \[
-   LODF_{ij} = \frac{X_{k} (W_{fi} - W_{fm} - W_{ti} + W_{tm})}{X_{ij} (X_{k} - W_{kk} - W_{mm} + 2W_{km})}
+   LODF_{ij} = \frac{X_{k} (W_{fk} - W_{fm} - W_{tk} + W_{tm})}{X_{ij} (X_{k} - W_{kk} - W_{mm} + 2W_{km})}
    \]
 
 
-   Donde \(W_{fi}\), \(W_{fm}\), \(W_{ti}\), y \(W_{tm}\) son elementos de la matriz `W`.
+   Donde \(W_{fk}\), \(W_{fm}\), \(W_{tk}\), y \(W_{tm}\) son elementos de la matriz `W`.
 
 ## Funciones
 
